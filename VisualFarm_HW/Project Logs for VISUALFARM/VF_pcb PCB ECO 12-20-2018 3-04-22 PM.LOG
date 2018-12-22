@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C5 Old Footprint=0805 CAP New Footprint=RAD-0.3
+Added Pin To Net: NetName=SDA1 Pin=U1-36
+Added Member To Class: ClassName=VF_sch Member=Component C1 10uF
+Added Room: Name=VF_sch

@@ -1,0 +1,8 @@
+Added Component: Designator=Soil_Moisture(HDR1X3)
+Added Pin To Net: NetName=GND Pin=Soil_Moisture-1
+Added Pin To Net: NetName=3.3VDC Pin=Soil_Moisture-2
+Added Pin To Net: NetName=AN9 Pin=Soil_Moisture-3
+Added Pin To Net: NetName=AN9 Pin=U1-22
+Added Net: Name=AN9
+Added Member To Class: ClassName=VF_sch Member=Component Soil_Moisture 
+Added Room: Name=VF_sch
